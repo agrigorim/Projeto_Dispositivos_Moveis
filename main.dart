@@ -1,6 +1,6 @@
-import 'Pessoa.dart';
-import 'Usuario.dart';
-import 'Administrador.dart';
-import 'Livro.dart';
+import 'package:flutter/widgets.dart';
+import 'meu_aplicativo.dart';
 
-main() {}
+void main() {
+  runApp(MeuAplicativo());
+}
